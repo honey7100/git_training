@@ -1,2 +1,2 @@
 "Hi!"
-"NIce to meet you!"
+""Nice to meet you!""
